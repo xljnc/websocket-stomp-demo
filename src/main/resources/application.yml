@@ -1,0 +1,10 @@
+
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+
+
+  thymeleaf:
+    mode: HTML5
